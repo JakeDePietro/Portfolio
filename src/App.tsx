@@ -45,7 +45,7 @@ export default function App() {
       <div className="projectText">
         <h1 className="projectTitle">Network Monitor</h1>
         <p className="projectDesc">
-          Designed and implemented web applications to track and graph router-level network performance. Leveraged Personal VPS and Cloud Infrastructure, Flask, and Plotly.
+          Designed and implemented web applications to track and graph router-level network performance. Leveraged Personal VPS and Cloud Infrastructure, Flask, and Plotly. 
         </p>
       </div>
     </div>
